@@ -40,6 +40,7 @@ class Window(Window):
      
 
     def on_mouse_motion(self, x, y, dx, dy):
+        pass
 
     def on_key_press(self, symbol, modifiers):
 

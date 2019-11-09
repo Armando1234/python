@@ -10,9 +10,9 @@ from random import randint
 #short way, can be optimized
 #data = [randint(0, 10000) for _ in range (100)]
 
-data = [1,2,3,4,5]
-#the underscore can be used as an "empty" or "unused" variable to replace the "i" which would not be needed
 
+#the underscore can be used as an "empty" or "unused" variable to replace the "i" which would not be needed
+data = [1,2,3,4,5]
 
 def bubble():
     operations = 0
