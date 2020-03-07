@@ -1,6 +1,7 @@
 from sys import getsizeof
 
 # Generators provide data one item at a time
+# This is a comment
 
 #naive function - technical name
 def stupidfunction():
